@@ -1,0 +1,8 @@
+2024-04-19T19:04:48+00:00 CRITICAL Out of memory (allocated 54525952) (tried to allocate 4194304 bytes) in /wordpress/wp-admin/includes/class-walker-category-checklist.php on line 2
+
+2024-04-19T19:14:53+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 4194304 bytes) in /wordpress/wp-admin/includes/post.php on line 56
+
+2024-04-19T19:15:03+00:00 CRITICAL Out of memory (allocated 39845888) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/CartItemSchema.php on line 55
+
+2024-04-19T19:15:28+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/CartItemSchema.php on line 55
+
