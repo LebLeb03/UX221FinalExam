@@ -1,0 +1,48 @@
+2024-04-09T02:10:47+00:00 CRITICAL Out of memory (allocated 54525952) (tried to allocate 4194304 bytes) in /wordpress/wp-content/plugins/woocommerce/src/Blocks/BlockTypes/CustomerAccount.php on line 70
+
+2024-04-09T02:26:38+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/CartSchema.php on line 7
+
+2024-04-09T02:27:03+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/CartSchema.php on line 7
+
+2024-04-09T02:27:28+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/CartSchema.php on line 7
+
+2024-04-09T02:43:26+00:00 CRITICAL Out of memory (allocated 69206016) (tried to allocate 4194304 bytes) in /wordpress/wp-content/plugins/woocommerce/includes/gateways/paypal/class-wc-gateway-paypal.php on line 271
+
+2024-04-09T02:43:40+00:00 CRITICAL Out of memory (allocated 44040192) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:44:40+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:45:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:46:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:47:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:48:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:49:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:50:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:51:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:52:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:53:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:54:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:55:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T02:56:40+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Utilities/ProductItemTrait.php on line 74
+
+2024-04-09T03:22:46+00:00 CRITICAL Out of memory (allocated 65011712) (tried to allocate 4194304 bytes) in /wordpress/wp-admin/includes/file.php on line 2
+
+2024-04-09T03:23:11+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/CartSchema.php on line 7
+
+2024-04-09T03:33:05+00:00 CRITICAL Out of memory (allocated 56623104) (tried to allocate 4194304 bytes) in /wordpress/wp-admin/includes/file.php on line 2
+
+2024-04-09T03:56:31+00:00 CRITICAL Out of memory (allocated 60817408) (tried to allocate 4194304 bytes) in /wordpress/wp-content/plugins/woocommerce/src/Admin/API/Reports/Variations/Controller.php on line 121
+
+2024-04-09T03:56:35+00:00 CRITICAL Out of memory (allocated 58720256) (tried to allocate 4194304 bytes) in /wordpress/wp-admin/includes/file.php on line 2
+
