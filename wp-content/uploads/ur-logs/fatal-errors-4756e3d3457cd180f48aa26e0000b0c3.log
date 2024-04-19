@@ -12,3 +12,15 @@
 
 2024-04-19T20:02:57+00:00 CRITICAL Out of memory (allocated 65011712) (tried to allocate 28672 bytes) in /wordpress/wp-content/plugins/woocommerce/src/Admin/API/Reports/Orders/Stats/Controller.php on line 514
 
+2024-04-19T20:45:43+00:00 CRITICAL Out of memory (allocated 65011712) (tried to allocate 4194304 bytes) in /wordpress/wp-content/plugins/woocommerce/src/Admin/API/OnboardingTasks.php on line 364
+
+2024-04-19T20:45:43+00:00 CRITICAL Out of memory (allocated 60817408) (tried to allocate 4194304 bytes) in /wordpress/wp-content/plugins/woocommerce/src/Admin/API/OnboardingTasks.php on line 364
+
+2024-04-19T20:46:06+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/CartItemSchema.php on line 55
+
+2024-04-19T20:47:06+00:00 CRITICAL Out of memory (allocated 27262976) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/CartItemSchema.php on line 55
+
+2024-04-19T20:59:02+00:00 CRITICAL Out of memory (allocated 65011712) (tried to allocate 4194304 bytes) in /wordpress/wp-content/plugins/woocommerce/src/Admin/API/OnboardingTasks.php on line 363
+
+2024-04-19T20:59:03+00:00 CRITICAL Out of memory (allocated 29360128) (tried to allocate 2097152 bytes) in /wordpress/wp-content/plugins/woocommerce/src/StoreApi/Schemas/V1/CartItemSchema.php on line 55
+
